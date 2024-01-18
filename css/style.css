@@ -1,0 +1,58 @@
+/* ID selectors */
+
+#link-color {
+    color: #EEBA2F;
+}
+
+/* Class selectors */
+
+.adjust-center {
+    text-align: center;
+}
+
+.index-title{
+    font-size: 48px;
+}
+
+.normal-text{
+    font-size: 20px;
+}
+
+.first-title,
+.second-title {
+    background-color: #740001;
+    color: #D3A626;
+}
+
+.first-title {
+    font-size: 36px;
+}
+
+.second-title {
+    font-size: 28px;
+}
+
+.third-title {
+    font-size: 24px;
+}
+
+.img-format {
+    height: auto;
+    width: 400px
+}
+
+/* Type selectors */
+
+body {
+    font-family: "Lucida Handwriting", "Brush Script MT", sans-serif;
+    background-color: #AE0001;
+    color: #EEBA2F;
+}
+
+/*Color Palette (Gryffindor Style)
+1. Dark red: #740001
+2. Normal red: #AE0001
+3. Yellow: #EEBA2F
+4. Gold: #D3A626
+5. Black: #000000
+*/
